@@ -25,7 +25,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## 🧭 درباره من
+## 🧭 About Me
 
 <div align="center">
   <img src="https://img.shields.io/badge/Backend-Focus-FFD700?style=for-the-badge&logo=django&logoColor=white&labelColor=0F0F0F"/>
@@ -35,15 +35,15 @@
 
 <br/>
 
-سلام! من امیرعلی پوربابائی هستم، یک توسعه‌دهنده بک‌اند از تهران، ایران.  
-عاشق ساختن سیستم‌های مقیاس‌پذیر و قابل اعتماد با استفاده از **Django** و **Django REST Framework** هستم.  
-برای من، هر خط کد یک سرمایه‌گذاری بلندمدت است – چیزی که فردا هم خوانا، قابل نگهداری و قدرتمند باشد.
+Hey there! I'm AmirAli Pourbabaei, a backend developer from Tehran, Iran.  
+I'm passionate about building scalable and reliable systems using **Django** and **Django REST Framework**.  
+To me, every line of code is a long-term investment – something that stays readable, maintainable, and powerful well into the future.
 
-- 🔭 در حال حاظر مشغول تقویت مهارت‌هایم در طراحی **REST API**های حرفه‌ای با Django هستم
-- 🌱 عمیق‌تر وارد مفاهیم **Clean Architecture** و **SOLID Principles** می‌شوم
-- 🧪 به Test-Driven Development (TDD) برای پروژه‌های Django علاقه‌مندم
-- ✨ از بهینه‌سازی کوئری‌های پایگاه داده و Refactoring کدهای قدیمی لذت می‌برم
-- ☕ با یک فنجان چای پررنگ و VSCode کدنویسی می‌کنم
+- 🔭 Currently sharpening my skills in designing professional **REST APIs** with Django
+- 🌱 Diving deeper into **Clean Architecture** and **SOLID Principles**
+- 🧪 Interested in Test-Driven Development (TDD) for Django projects
+- ✨ I genuinely enjoy optimizing database queries and refactoring legacy code
+- ☕ Powered by strong tea and VSCode
 
 <br/>
 
@@ -51,28 +51,28 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## ⚙️ تکنولوژی‌ها و ابزارها
+## ⚙️ Tech Stack & Tools
 
 <div align="center">
-  <h3>🧠 زبان‌ها</h3>
+  <h3>🧠 Languages</h3>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark&perline=4" alt="languages" />
   
-  <h3>🚀 فریم‌ورک‌ها و بک‌اند</h3>
+  <h3>🚀 Frameworks & Backend</h3>
   <img src="https://skillicons.dev/icons?i=django,react&theme=dark&perline=2" alt="frameworks" />
   <br/>
   <span style="color:#FFD700"> Django REST Framework • RESTful API Design </span>
   
-  <h3>🗄️ پایگاه‌های داده</h3>
+  <h3>🗄️ Databases</h3>
   <img src="https://skillicons.dev/icons?i=postgresql&theme=dark&perline=1" alt="databases" />
   <br/>
   <span style="color:#FFD700"> PostgreSQL • SQL Server • Socket Programming </span>
   
-  <h3>🛠️ ابزارها و محیط‌ها</h3>
+  <h3>🛠️ Tools & Environments</h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,postman,linux,bash&theme=dark&perline=5" alt="tools" />
   <br/>
   <span style="color:#FFD700"> Ubuntu • WSL • Git </span>
   
-  <h3>🧪 مهارت‌های کلیدی</h3>
+  <h3>🧪 Key Skills</h3>
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" alt="practices" /> 
   <br/>
   <span style="color:#FFD700"> Clean Code • SOLID • DRY • KISS • YAGNI • WebSocket </span>
@@ -84,7 +84,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## 📊 آمار گیت‌هاب
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByteBite1391&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0F0F0F&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -115,7 +115,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## 🧠 فلسفه توسعه
+## 🧠 Development Philosophy
 
 <div align="center">
   <table>
@@ -127,22 +127,22 @@
       <td align="center"><b>Clean Code</b></td>
     </tr>
     <tr>
-      <td>طراحی هدفمند کلاس‌ها</td>
-      <td>یک حقیقت، یک مکان</td>
-      <td>سادگی به جای زیرکی</td>
-      <td>ساخت آنچه امروز نیاز است</td>
-      <td>کد خوانا، زیبا و تست‌پذیر</td>
+      <td>Purposeful class design</td>
+      <td>One truth, one place</td>
+      <td>Simplicity over cleverness</td>
+      <td>Build what's needed today</td>
+      <td>Readable, elegant, testable</td>
     </tr>
   </table>
 </div>
 
 <br/>
 
-- **قابلیت نگهداری** – کد بیش از نوشته شدن، خوانده می‌شود؛ من برای انسان‌ها می‌نویسم.
-- **مقیاس‌پذیری** – طراحی سیستم‌هایی که با رشد، ساختارشان را حفظ می‌کنند.
-- **عملکرد** – کوئری‌های هوشمندانه، الگوریتم‌های کارآمد و ساختار داده مناسب.
-- **امنیت** – اعتبارسنجی ورودی، حداقل دسترسی و دفاع در عمق، خط‌قرمز من هستند.
-- **یادگیری مداوم** – هر پروژه فرصتی است برای بهتر شدن.
+- **Maintainability** – Code is read far more often than it's written; I write for humans first.
+- **Scalability** – Designing systems that preserve their structure as they grow.
+- **Performance** – Smart queries, efficient algorithms, and the right data structures.
+- **Security** – Input validation, least privilege, and defense in depth are my red lines.
+- **Continuous Learning** – Every project is an opportunity to get better.
 
 <br/>
 
@@ -150,7 +150,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## 🎯 تمرکز فعلی و اهداف
+## 🎯 Current Focus & Goals
 
 <div align="center">
   <img src="https://img.shields.io/badge/Learning-Django%20REST%20APIs-FFD700?style=for-the-badge&logo=django&logoColor=white&labelColor=0F0F0F"/>
@@ -160,32 +160,20 @@
 
 <br/>
 
-**کوتاه‌مدت (۳ تا ۶ ماه)**
-- تکمیل و بهبود پورتفولیوی شخصی با پروژه‌های Django جدید
-- کسب تسلط کامل بر Django REST Framework و مفاهیم Serializerهای پیشرفته
-- مشارکت در یک پروژه متن‌باز فارسی مرتبط با Django
+**Short-term (3-6 months)**
+- Complete and enhance my personal portfolio with new Django projects
+- Gain full mastery over Django REST Framework and advanced Serializer concepts
+- Contribute to a Persian open-source project related to Django
 
-**میان‌مدت (۶ تا ۱۸ ماه)**
-- راه‌اندازی یک API عمومی مبتنی بر Django با مستندات کامل
-- یادگیری Docker و استقرار پروژه‌های Django با Nginx و Gunicorn
-- شرکت در یک همکاری تیمی واقعی روی پروژه بک‌اند
+**Mid-term (6-18 months)**
+- Launch a public API built with Django, complete with thorough documentation
+- Learn Docker and deploy Django projects using Nginx and Gunicorn
+- Join a real-world team collaboration on a backend project
 
-**بلندمدت (۲ تا ۵ سال)**
-- تبدیل شدن به یک توسعه‌دهنده Full-Stack حرفه‌ای با تخصص عمیق در بک‌اند
-- راه‌اندازی استارتاپ شخصی با محوریت سرویس‌های تحت وب
-- مربی‌گری برنامه‌نویسان تازه‌کار
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
-</div>
-
-## 🕊️ نقل قول یک توسعه‌دهنده
-
-> "هر باگ، درسی است که کد به تو می‌آموزد.  
-> هر خط تمیز، احترامی است به آینده خودت و تیمت.  
-> کد بزن، یاد بگیر، و بهتر از دیروز باش."
+**Long-term (2-5 years)**
+- Become a professional Full-Stack developer with deep backend expertise
+- Launch a personal startup focused on web-based services
+- Mentor aspiring developers and share knowledge through writing
 
 <br/>
 
@@ -193,13 +181,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## ✨ نکات جالب
+## 🕊️ A Developer's Word
 
-- 🐍 اولین برنامه‌ام را با HTML نوشتم، اما Django بود که عاشق برنامه‌نویسی شدم.
-- 🖥️ عاشق اینم که کدهای قدیمی را Refactor کنم – حس تمیزکاری و بهینه‌سازی واقعاً لذت‌بخشه.
-- 🌙 دارک مُد برای من فقط یه تنظیمات نیست، یه سبک زندگیه.
-- ☕ بهترین همراه کدنویسی‌ام یه استکان چای پررنگ و یه موزیک بی‌کلام ملایمه.
-- 🔁 گاهی یه پروژه رو از صفر بازنویسی می‌کنم تا یه معماری جدید رو تست کنم.
+> "Every bug is a lesson the code teaches you.  
+> Every clean line is a sign of respect for your future self and your team.  
+> Code, learn, and be better than yesterday."
 
 <br/>
 
@@ -207,7 +193,21 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## 📬 راه‌های ارتباطی
+## ✨ Fun Facts
+
+- 🐍 My first program was written in HTML, but Django made me fall in love with programming.
+- 🖥️ I genuinely enjoy refactoring old code – the feeling of cleaning and optimizing is deeply satisfying.
+- 🌙 Dark mode isn't just a setting for me, it's a lifestyle.
+- ☕ My perfect coding companion is a cup of strong tea and some gentle instrumental music.
+- 🔁 I sometimes rewrite a project from scratch just to test a new architecture pattern.
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
+</div>
+
+## 📬 Let's Connect
 
 <div align="center">
   <a href="https://github.com/ByteBite1391"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="GitHub"/></a>
@@ -219,7 +219,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,22,27&height=120&section=footer&text=ممنون%20که%20سر%20زدی!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,22,27&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Footer Wave"/>
   <br/>
-  <sub>ساخته شده با عشق، کد تمیز و کمی طلا ✨</sub>
+  <sub>Built with passion, clean code, and a dash of gold ✨</sub>
 </div>
