@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,22,27&height=220&section=header&text=Alexei%20Volkov&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Clean%20Architecture%20Advocate&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Hero Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,22,27&height=220&section=header&text=AmirAli%20Pourbabaei&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20Clean%20Architecture%20Advocate&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Hero Banner"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Building+scalable+systems;Backend+engineering+with+Python;Clean+code%2C+SOLID+principles;Performance+and+security+focused" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Building+scalable+systems+with+Django;Crafting+robust+REST+APIs;Clean+code+and+SOLID+principles;Performance-driven+backend+engineering" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -14,9 +14,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/alexvdev"><img src="https://img.shields.io/github/followers/alexvdev?style=for-the-badge&logo=github&labelColor=0F0F0F&color=FFD700"/></a>
-  <a href="https://github.com/alexvdev"><img src="https://img.shields.io/github/stars/alexvdev?style=for-the-badge&logo=github&labelColor=0F0F0F&color=FFD700"/></a>
-  <img src="https://komarev.com/ghpvc/?username=alexvdev&style=for-the-badge&color=FFD700&labelColor=0F0F0F" alt="visitor counter"/>
+  <a href="https://github.com/ByteBite1391"><img src="https://img.shields.io/github/followers/ByteBite1391?style=for-the-badge&logo=github&labelColor=0F0F0F&color=FFD700"/></a>
+  <a href="https://github.com/ByteBite1391"><img src="https://img.shields.io/github/stars/ByteBite1391?style=for-the-badge&logo=github&labelColor=0F0F0F&color=FFD700"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ByteBite1391&style=for-the-badge&color=FFD700&labelColor=0F0F0F" alt="visitor counter"/>
 </div>
 
 <br/>
@@ -25,25 +25,25 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## 🧭 About Me
+## 🧭 درباره من
 
 <div align="center">
   <img src="https://img.shields.io/badge/Backend-Focus-FFD700?style=for-the-badge&logo=django&logoColor=white&labelColor=0F0F0F"/>
-  <img src="https://img.shields.io/badge/Architecture-Enthusiast-FFD700?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=0F0F0F"/>
   <img src="https://img.shields.io/badge/Clean%20Code-Advocate-FFD700?style=for-the-badge&logo=clean-code&logoColor=white&labelColor=0F0F0F"/>
+  <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-FFD700?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0F0F0F"/>
 </div>
 
 <br/>
 
-I’m a backend software engineer who believes that robust systems start with clarity of thought and structure.  
-My daily work revolves around **Python**, **Django**, and the ecosystem that turns ideas into reliable APIs.  
-I treat every line of code as a long‑term investment – readable, maintainable, and ready for the future.
+سلام! من امیرعلی پوربابائی هستم، یک توسعه‌دهنده بک‌اند از تهران، ایران.  
+عاشق ساختن سیستم‌های مقیاس‌پذیر و قابل اعتماد با استفاده از **Django** و **Django REST Framework** هستم.  
+برای من، هر خط کد یک سرمایه‌گذاری بلندمدت است – چیزی که فردا هم خوانا، قابل نگهداری و قدرتمند باشد.
 
-- 🔭 Currently refining my expertise in **system design** and **distributed architectures**
-- 🌱 Deepening my understanding of **PostgreSQL performance tuning** and **event‑driven systems**
-- 🧪 Practicing Test‑Driven Development and Domain‑Driven Design
-- ✨ I enjoy refactoring legacy code into clean, modular components
-- ☕ Powered by black coffee and Vim
+- 🔭 در حال حاظر مشغول تقویت مهارت‌هایم در طراحی **REST API**های حرفه‌ای با Django هستم
+- 🌱 عمیق‌تر وارد مفاهیم **Clean Architecture** و **SOLID Principles** می‌شوم
+- 🧪 به Test-Driven Development (TDD) برای پروژه‌های Django علاقه‌مندم
+- ✨ از بهینه‌سازی کوئری‌های پایگاه داده و Refactoring کدهای قدیمی لذت می‌برم
+- ☕ با یک فنجان چای پررنگ و VSCode کدنویسی می‌کنم
 
 <br/>
 
@@ -51,28 +51,31 @@ I treat every line of code as a long‑term investment – readable, maintainabl
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## ⚙️ Tech Stack & Tools
+## ⚙️ تکنولوژی‌ها و ابزارها
 
 <div align="center">
-  <h3>🧠 Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash&theme=dark&perline=4" alt="languages" />
+  <h3>🧠 زبان‌ها</h3>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark&perline=4" alt="languages" />
   
-  <h3>🚀 Backend & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,graphql,nodejs&theme=dark&perline=5" alt="backend" />
-  
-  <h3>🗄️ Databases & Caching</h3>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark&perline=5" alt="databases" />
-  
-  <h3>☁️ Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,terraform,linux&theme=dark&perline=7" alt="devops" />
-  
-  <h3>🛠️ Tools & Practices</h3>
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode,vim,bash,md&theme=dark&perline=6" alt="tools" />
-  
-  <h3>🧪 Testing & Architecture</h3>
-  <img src="https://skillicons.dev/icons?i=jest,selenium,git&theme=dark&perline=3" alt="testing" /> 
+  <h3>🚀 فریم‌ورک‌ها و بک‌اند</h3>
+  <img src="https://skillicons.dev/icons?i=django,react&theme=dark&perline=2" alt="frameworks" />
   <br/>
-  <span style="color:#FFD700"> RESTful APIs • gRPC • Microservices • DDD • SOLID • CI/CD </span>
+  <span style="color:#FFD700"> Django REST Framework • RESTful API Design </span>
+  
+  <h3>🗄️ پایگاه‌های داده</h3>
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark&perline=1" alt="databases" />
+  <br/>
+  <span style="color:#FFD700"> PostgreSQL • SQL Server • Socket Programming </span>
+  
+  <h3>🛠️ ابزارها و محیط‌ها</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,postman,linux,bash&theme=dark&perline=5" alt="tools" />
+  <br/>
+  <span style="color:#FFD700"> Ubuntu • WSL • Git </span>
+  
+  <h3>🧪 مهارت‌های کلیدی</h3>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" alt="practices" /> 
+  <br/>
+  <span style="color:#FFD700"> Clean Code • SOLID • DRY • KISS • YAGNI • WebSocket </span>
 </div>
 
 <br/>
@@ -81,41 +84,29 @@ I treat every line of code as a long‑term investment – readable, maintainabl
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## 📊 GitHub Statistics
+## 📊 آمار گیت‌هاب
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexvdev&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0F0F0F&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvdev&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0F0F0F&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByteBite1391&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0F0F0F&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBite1391&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0F0F0F&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexvdev&theme=dark&background=0F0F0F&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=AAAAAA&dates=888888&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBite1391&theme=dark&background=0F0F0F&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=AAAAAA&dates=888888&hide_border=true" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexvdev&theme=github-compact&bg_color=0F0F0F&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteBite1391&theme=github-compact&bg_color=0F0F0F&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexvdev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🏆 Repository Highlights</h3>
-  <a href="https://github.com/alexvdev/django-api-boilerplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexvdev&repo=django-api-boilerplate&theme=dark&bg_color=0F0F0F&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true" alt="Repo Card"/>
-  </a>
-  <a href="https://github.com/alexvdev/py-microservices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexvdev&repo=py-microservices&theme=dark&bg_color=0F0F0F&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true" alt="Repo Card"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ByteBite1391&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies"/>
 </div>
 
 <br/>
@@ -124,7 +115,7 @@ I treat every line of code as a long‑term investment – readable, maintainabl
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## 🧠 Development Philosophy
+## 🧠 فلسفه توسعه
 
 <div align="center">
   <table>
@@ -136,22 +127,22 @@ I treat every line of code as a long‑term investment – readable, maintainabl
       <td align="center"><b>Clean Code</b></td>
     </tr>
     <tr>
-      <td>Class design with purpose</td>
-      <td>One truth, one place</td>
-      <td>Simplicity over cleverness</td>
-      <td>Build what’s needed today</td>
-      <td>Readable, elegant, testable</td>
+      <td>طراحی هدفمند کلاس‌ها</td>
+      <td>یک حقیقت، یک مکان</td>
+      <td>سادگی به جای زیرکی</td>
+      <td>ساخت آنچه امروز نیاز است</td>
+      <td>کد خوانا، زیبا و تست‌پذیر</td>
     </tr>
   </table>
 </div>
 
 <br/>
 
-- **Maintainability** – Code is read far more often than it is written; I write for humans first.
-- **Scalability** – I design systems that handle growth without losing structure.
-- **Performance** – Thoughtful queries, efficient algorithms, and the right data structures.
-- **Security** – Input validation, least privilege, and defence in depth are non‑negotiable.
-- **Continuous Learning** – Every project is an opportunity to refine my craft.
+- **قابلیت نگهداری** – کد بیش از نوشته شدن، خوانده می‌شود؛ من برای انسان‌ها می‌نویسم.
+- **مقیاس‌پذیری** – طراحی سیستم‌هایی که با رشد، ساختارشان را حفظ می‌کنند.
+- **عملکرد** – کوئری‌های هوشمندانه، الگوریتم‌های کارآمد و ساختار داده مناسب.
+- **امنیت** – اعتبارسنجی ورودی، حداقل دسترسی و دفاع در عمق، خط‌قرمز من هستند.
+- **یادگیری مداوم** – هر پروژه فرصتی است برای بهتر شدن.
 
 <br/>
 
@@ -159,42 +150,30 @@ I treat every line of code as a long‑term investment – readable, maintainabl
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## 🎯 Current Focus & Goals
+## 🎯 تمرکز فعلی و اهداف
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Learning-Distributed%20Systems-FFD700?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=0F0F0F"/>
-  <img src="https://img.shields.io/badge/Building-Django%20REST%20APIs-FFD700?style=for-the-badge&logo=django&logoColor=white&labelColor=0F0F0F"/>
-  <img src="https://img.shields.io/badge/Mastering-PostgreSQL%20Performance-FFD700?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0F0F0F"/>
+  <img src="https://img.shields.io/badge/Learning-Django%20REST%20APIs-FFD700?style=for-the-badge&logo=django&logoColor=white&labelColor=0F0F0F"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-FFD700?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=0F0F0F"/>
+  <img src="https://img.shields.io/badge/Mastering-SOLID%20%26%20Clean%20Code-FFD700?style=for-the-badge&logo=clean-code&logoColor=white&labelColor=0F0F0F"/>
 </div>
 
 <br/>
 
-**Short‑term (3‑6 months)**
-- Contribute to at least two open‑source Django packages
-- Build a production‑ready API boilerplate with FastAPI and Django
-- Deep‑dive into PostgreSQL indexing and query optimization
+**کوتاه‌مدت (۳ تا ۶ ماه)**
+- تکمیل و بهبود پورتفولیوی شخصی با پروژه‌های Django جدید
+- کسب تسلط کامل بر Django REST Framework و مفاهیم Serializerهای پیشرفته
+- مشارکت در یک پروژه متن‌باز فارسی مرتبط با Django
 
-**Mid‑term (6‑18 months)**
-- Lead backend architecture for a high‑load project
-- Earn AWS Solutions Architect Associate certification
-- Speak at a local developer meetup about clean backend patterns
+**میان‌مدت (۶ تا ۱۸ ماه)**
+- راه‌اندازی یک API عمومی مبتنی بر Django با مستندات کامل
+- یادگیری Docker و استقرار پروژه‌های Django با Nginx و Gunicorn
+- شرکت در یک همکاری تیمی واقعی روی پروژه بک‌اند
 
-**Long‑term (2‑5 years)**
-- Become a software architect shaping large‑scale systems
-- Mentor junior developers and give back through writing
-- Launch a SaaS product built on a fully serverless, event‑driven backbone
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
-</div>
-
-## 🕊️ A Developer’s Word
-
-> "Code is a conversation with the future.  
-> Write it with clarity, respect, and a touch of elegance –  
-> because someone, someday, will be grateful you did."  
+**بلندمدت (۲ تا ۵ سال)**
+- تبدیل شدن به یک توسعه‌دهنده Full-Stack حرفه‌ای با تخصص عمیق در بک‌اند
+- راه‌اندازی استارتاپ شخصی با محوریت سرویس‌های تحت وب
+- مربی‌گری برنامه‌نویسان تازه‌کار
 
 <br/>
 
@@ -202,13 +181,11 @@ I treat every line of code as a long‑term investment – readable, maintainabl
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## ✨ Fun Facts
+## 🕊️ نقل قول یک توسعه‌دهنده
 
-- 🐍 My first “Hello, World!” was in QBASIC, but Python won my heart years later.
-- 🖥️ I genuinely enjoy refactoring – it feels like polishing a rough gem.
-- 🌙 Dark mode isn’t a preference; it’s a lifestyle (even in my terminal dreams).
-- ☕ The perfect debugging companion is a cup of black coffee and a quiet Vim session.
-- 🔁 I often rebuild a side project just to test a new architecture pattern.
+> "هر باگ، درسی است که کد به تو می‌آموزد.  
+> هر خط تمیز، احترامی است به آینده خودت و تیمت.  
+> کد بزن، یاد بگیر، و بهتر از دیروز باش."
 
 <br/>
 
@@ -216,19 +193,33 @@ I treat every line of code as a long‑term investment – readable, maintainabl
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
 </div>
 
-## 📬 Let’s Connect
+## ✨ نکات جالب
+
+- 🐍 اولین برنامه‌ام را با HTML نوشتم، اما Django بود که عاشق برنامه‌نویسی شدم.
+- 🖥️ عاشق اینم که کدهای قدیمی را Refactor کنم – حس تمیزکاری و بهینه‌سازی واقعاً لذت‌بخشه.
+- 🌙 دارک مُد برای من فقط یه تنظیمات نیست، یه سبک زندگیه.
+- ☕ بهترین همراه کدنویسی‌ام یه استکان چای پررنگ و یه موزیک بی‌کلام ملایمه.
+- 🔁 گاهی یه پروژه رو از صفر بازنویسی می‌کنم تا یه معماری جدید رو تست کنم.
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/alexvdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="GitHub"/></a>
-  <a href="mailto:alex@alexv.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="Email"/></a>
-  <a href="https://t.me/alexv_dev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="Telegram"/></a>
-  <a href="https://alexv.dev"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=safari&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="Website"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
+</div>
+
+## 📬 راه‌های ارتباطی
+
+<div align="center">
+  <a href="https://github.com/ByteBite1391"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="GitHub"/></a>
+  <a href="mailto:amiralipourbabaeii1391@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="Email"/></a>
+  <a href="https://t.me/araipi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="Telegram"/></a>
+  <a href="https://personal-portfolio-w-n8vp.bolt.host/"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=safari&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="Website"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,22,27&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,22,27&height=120&section=footer&text=ممنون%20که%20سر%20زدی!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Footer Wave"/>
   <br/>
-  <sub>Built with passion, clean code, and a dash of gold ✨</sub>
+  <sub>ساخته شده با عشق، کد تمیز و کمی طلا ✨</sub>
 </div>
