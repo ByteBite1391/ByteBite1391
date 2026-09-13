@@ -303,14 +303,14 @@ I'm passionate about building **scalable and reliable systems** using **Django**
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FOOTER                                    -->
+<!--                    FOOTER (FIXED COLOR)                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 💛 Built with passion, clean code, and a dash of gold ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d4af37&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=08080a&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d4af37&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=d4af37&fontAlignY=60&animation=twinkling&desc=⭐%20Star%20my%20repos%20if%20you%20like%20my%20work&descSize=14&descAlignY=80&descColor=e9c55a" width="100%" />
 
 **⭐ If you like my work, consider starring my repositories!**
 
