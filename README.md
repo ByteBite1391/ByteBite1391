@@ -1,225 +1,317 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    HEADER SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,22,27&height=220&section=header&text=AmirAli%20Pourbabaei&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20Clean%20Architecture%20Advocate&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Hero Banner"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Building+scalable+systems+with+Django;Crafting+robust+REST+APIs;Clean+code+and+SOLID+principles;Performance-driven+backend+engineering" alt="Typing SVG" />
-  </a>
-
-  <br/>
-  <p>
-    <em>"Code is the blueprint of tomorrow – I build it durable, readable, and ready to evolve."</em>
-  </p>
-</div>
+<!-- Animated typing header -->
+<a href="https://github.com/ByteBite1391">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+AmirAli+Pourbabaeii;Backend+Developer+%7C+Django+Enthusiast;Building+clean%2C+scalable+systems" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/ByteBite1391"><img src="https://img.shields.io/github/followers/ByteBite1391?style=for-the-badge&logo=github&labelColor=0F0F0F&color=FFD700"/></a>
-  <a href="https://github.com/ByteBite1391"><img src="https://img.shields.io/github/stars/ByteBite1391?style=for-the-badge&logo=github&labelColor=0F0F0F&color=FFD700"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ByteBite1391&style=for-the-badge&color=FFD700&labelColor=0F0F0F" alt="visitor counter"/>
+<!-- Profile badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ByteBite1391&label=Profile%20views&color=d4af37&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ByteBite1391?label=Followers&style=for-the-badge&color=d4af37&labelColor=08080a" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-d4af37?style=for-the-badge&labelColor=08080a" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-d4af37?style=for-the-badge&labelColor=08080a&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🧭 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Backend-Focus-FFD700?style=for-the-badge&logo=django&logoColor=white&labelColor=0F0F0F"/>
-  <img src="https://img.shields.io/badge/Clean%20Code-Advocate-FFD700?style=for-the-badge&logo=clean-code&logoColor=white&labelColor=0F0F0F"/>
-  <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-FFD700?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0F0F0F"/>
-</div>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ByteBite1391&show_icons=true&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<br/>
+Hey there! I'm **AmirAli Pourbabaeii** (aka **ByteBite**), a backend developer from **Tehran, Iran** 🇮🇷.
 
-Hey there! I'm AmirAli Pourbabaei, a backend developer from Tehran, Iran.  
-I'm passionate about building scalable and reliable systems using **Django** and **Django REST Framework**.  
-To me, every line of code is a long-term investment – something that stays readable, maintainable, and powerful well into the future.
+I'm passionate about building **scalable and reliable systems** using **Django** and **Django REST Framework**. To me, every line of code is a **long-term investment** — something that stays readable, maintainable, and powerful well into the future.
 
-- 🔭 Currently sharpening my skills in designing professional **REST APIs** with Django
+- 🔭 Currently sharpening my skills in designing **professional REST APIs** with Django
 - 🌱 Diving deeper into **Clean Architecture** and **SOLID Principles**
-- 🧪 Interested in Test-Driven Development (TDD) for Django projects
-- ✨ I genuinely enjoy optimizing database queries and refactoring legacy code
-- ☕ Powered by strong tea and VSCode
+- 🧪 Interested in **Test-Driven Development (TDD)** for Django projects
+- ✨ I genuinely enjoy **optimizing database queries** and **refactoring legacy code**
+- ☕ Powered by **strong tea** and **VSCode**
 
-<br/>
+<br clear="right"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
-</div>
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ⚙️ Tech Stack & Tools
 
 <div align="center">
-  <h3>🧠 Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark&perline=4" alt="languages" />
-  
-  <h3>🚀 Frameworks & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=django,react&theme=dark&perline=2" alt="frameworks" />
-  <br/>
-  <span style="color:#FFD700"> Django REST Framework • RESTful API Design </span>
-  
-  <h3>🗄️ Databases</h3>
-  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark&perline=1" alt="databases" />
-  <br/>
-  <span style="color:#FFD700"> PostgreSQL • SQL Server • Socket Programming </span>
-  
-  <h3>🛠️ Tools & Environments</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,postman,linux,bash&theme=dark&perline=5" alt="tools" />
-  <br/>
-  <span style="color:#FFD700"> Ubuntu • WSL • Git </span>
-  
-  <h3>🧪 Key Skills</h3>
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" alt="practices" /> 
-  <br/>
-  <span style="color:#FFD700"> Clean Code • SOLID • DRY • KISS • YAGNI • WebSocket </span>
+
+### 🐍 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🛠️ Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS SECTION                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByteBite1391&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0F0F0F&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBite1391&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=0F0F0F&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBite1391&layout=compact&theme=dark&bg_color=08080a&title_color=d4af37&text_color=e5e7eb&border_color=d4af37&langs_count=8" alt="Top Languages" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBite1391&theme=dark&background=08080a&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=e5e7eb&dates=e5e7eb&border=d4af37" alt="GitHub Streak" />
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBite1391&theme=dark&background=0F0F0F&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=AAAAAA&dates=888888&hide_border=true" alt="Streak Stats"/>
-</div>
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=ByteBite1391&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteBite1391&theme=github-compact&bg_color=0F0F0F&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteBite1391&bg_color=08080a&color=d4af37&line=d4af37&point=e9c55a&area=true&hide_border=false&border_color=d4af37" alt="Activity Graph" width="100%" />
+
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ByteBite1391&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 DEVELOPMENT PHILOSOPHY                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🧠 Development Philosophy
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>SOLID</b></td>
-      <td align="center"><b>DRY</b></td>
-      <td align="center"><b>KISS</b></td>
-      <td align="center"><b>YAGNI</b></td>
-      <td align="center"><b>Clean Code</b></td>
-    </tr>
-    <tr>
-      <td>Purposeful class design</td>
-      <td>One truth, one place</td>
-      <td>Simplicity over cleverness</td>
-      <td>Build what's needed today</td>
-      <td>Readable, elegant, testable</td>
-    </tr>
-  </table>
+
+| **SOLID** | **DRY** | **KISS** | **YAGNI** | **Clean Code** |
+|:---------:|:-------:|:--------:|:---------:|:--------------:|
+| Purposeful class design | One truth, one place | Simplicity over cleverness | Build what's needed today | Readable, elegant, testable |
+
 </div>
 
 <br/>
 
-- **Maintainability** – Code is read far more often than it's written; I write for humans first.
-- **Scalability** – Designing systems that preserve their structure as they grow.
-- **Performance** – Smart queries, efficient algorithms, and the right data structures.
-- **Security** – Input validation, least privilege, and defense in depth are my red lines.
-- **Continuous Learning** – Every project is an opportunity to get better.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🎯 Core Principles
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
-</div>
+- 🧩 **Maintainability** — Code is read far more often than it's written; I write for humans first.
+- 📈 **Scalability** — Designing systems that preserve their structure as they grow.
+- ⚡ **Performance** — Smart queries, efficient algorithms, and the right data structures.
+- 🔒 **Security** — Input validation, least privilege, and defense in depth are my red lines.
+- 📚 **Continuous Learning** — Every project is an opportunity to get better.
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 What I Value
+
+- 📖 **Readable code** over clever one-liners
+- 🏗️ **Architecture** over quick hacks
+- 🧪 **Testing** over hoping it works
+- 📊 **Measured performance** over premature optimization
+- 🤝 **Team collaboration** over solo heroics
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CURRENT FOCUS                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🎯 Current Focus & Goals
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 Short-term
+*(3-6 months)*
+
+- ✅ Complete personal portfolio with new Django projects
+- ✅ Master Django REST Framework & advanced Serializers
+- ✅ Contribute to a Persian Django open-source project
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Mid-term
+*(6-18 months)*
+
+- 🌐 Launch a public Django API with documentation
+- 🐳 Learn Docker & deploy Django with Nginx + Gunicorn
+- 👥 Join a real-world backend team collaboration
+
+</td>
+<td width="33%" valign="top">
+
+### 🏆 Long-term
+*(2-5 years)*
+
+- 🎓 Become a professional Full-Stack developer
+- 💼 Launch a personal web-services startup
+- 🧑‍🏫 Mentor aspiring developers & share knowledge
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Learning-Django%20REST%20APIs-FFD700?style=for-the-badge&logo=django&logoColor=white&labelColor=0F0F0F"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-FFD700?style=for-the-badge&logo=blueprint&logoColor=white&labelColor=0F0F0F"/>
-  <img src="https://img.shields.io/badge/Mastering-SOLID%20%26%20Clean%20Code-FFD700?style=for-the-badge&logo=clean-code&logoColor=white&labelColor=0F0F0F"/>
+
+<a href="https://github.com/ByteBite1391/SchonShop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=SchonShop&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37" alt="SchonShop" />
+</a>
+<a href="https://github.com/ByteBite1391/Library-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=Library-Management-System&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37" alt="Library Management System" />
+</a>
+
+<a href="https://github.com/ByteBite1391/Hospital-Appointment-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=Hospital-Appointment-System&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37" alt="Hospital Appointment System" />
+</a>
+<a href="https://github.com/ByteBite1391/Portfolio2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=Portfolio2&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37" alt="Portfolio" />
+</a>
+
 </div>
 
-<br/>
+---
 
-**Short-term (3-6 months)**
-- Complete and enhance my personal portfolio with new Django projects
-- Gain full mastery over Django REST Framework and advanced Serializer concepts
-- Contribute to a Persian open-source project related to Django
-
-**Mid-term (6-18 months)**
-- Launch a public API built with Django, complete with thorough documentation
-- Learn Docker and deploy Django projects using Nginx and Gunicorn
-- Join a real-world team collaboration on a backend project
-
-**Long-term (2-5 years)**
-- Become a professional Full-Stack developer with deep backend expertise
-- Launch a personal startup focused on web-based services
-- Mentor aspiring developers and share knowledge through writing
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    A DEVELOPER'S WORD                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🕊️ A Developer's Word
 
-> "Every bug is a lesson the code teaches you.  
-> Every clean line is a sign of respect for your future self and your team.  
-> Code, learn, and be better than yesterday."
-
-<br/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
+
+> *"Every bug is a lesson the code teaches you.*
+> *Every clean line is a sign of respect for your future self and your team.*
+> *Code, learn, and be better than yesterday."*
+
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FUN FACTS                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ✨ Fun Facts
 
-- 🐍 My first program was written in HTML, but Django made me fall in love with programming.
-- 🖥️ I genuinely enjoy refactoring old code – the feeling of cleaning and optimizing is deeply satisfying.
-- 🌙 Dark mode isn't just a setting for me, it's a lifestyle.
-- ☕ My perfect coding companion is a cup of strong tea and some gentle instrumental music.
-- 🔁 I sometimes rewrite a project from scratch just to test a new architecture pattern.
+- 🐍 My first program was written in **HTML**, but **Django** made me fall in love with programming
+- 🖥️ I genuinely enjoy **refactoring old code** — the feeling of cleaning and optimizing is deeply satisfying
+- 🌙 **Dark mode** isn't just a setting for me, it's a lifestyle
+- ☕ My perfect coding companion is a cup of **strong tea** and some gentle instrumental music
+- 🔁 I sometimes **rewrite a project from scratch** just to test a new architecture pattern
+- 📚 I believe **documentation** is as important as the code itself
+- 🎯 I prefer **one well-designed function** over ten clever shortcuts
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=800&section=divider" alt="divider"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📬 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/ByteBite1391"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="GitHub"/></a>
-  <a href="mailto:amiralipourbabaeii1391@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="Email"/></a>
-  <a href="https://t.me/araipi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="Telegram"/></a>
-  <a href="https://personal-portfolio-w-n8vp.bolt.host/"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=safari&logoColor=white&labelColor=0F0F0F&color=FFD700" alt="Website"/></a>
+
+<a href="https://github.com/ByteBite1391" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://bytebite1391.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-d4af37?style=for-the-badge&logo=googlechrome&logoColor=08080a" alt="Portfolio" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://t.me/your_username" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
 </div>
 
-<br/>
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    SNAKE ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,22,27&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Footer Wave"/>
-  <br/>
-  <sub>Built with passion, clean code, and a dash of gold ✨</sub>
+
+### 🐍 Watch my contributions get eaten by a snake!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteBite1391/ByteBite1391/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteBite1391/ByteBite1391/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ByteBite1391/ByteBite1391/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FOOTER                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💛 Built with passion, clean code, and a dash of gold ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d4af37&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=08080a&animation=twinkling" width="100%" />
+
+**⭐ If you like my work, consider starring my repositories!**
+
 </div>
