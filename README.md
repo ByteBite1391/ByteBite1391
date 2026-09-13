@@ -29,7 +29,7 @@
 
 ## 🧭 About Me
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ByteBite1391&show_icons=true&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ByteBite1391&show_icons=true&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
 Hey there! I'm **AmirAli Pourbabaeii** (aka **ByteBite**), a backend developer from **Tehran, Iran** 🇮🇷.
 
@@ -83,28 +83,55 @@ I'm passionate about building **scalable and reliable systems** using **Django**
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS SECTION                      -->
+<!--                    GITHUB STATISTICS                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBite1391&layout=compact&theme=dark&bg_color=08080a&title_color=d4af37&text_color=e5e7eb&border_color=d4af37&langs_count=8" alt="Top Languages" />
+<!-- Profile Details (Profile Summary Cards - پایدارتر) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByteBite1391&theme=github_dark" alt="Profile Details" width="100%" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBite1391&theme=dark&background=08080a&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=e5e7eb&dates=e5e7eb&border=d4af37" alt="GitHub Streak" />
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBite1391&theme=dark&background=08080a&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=e5e7eb&dates=e5e7eb&border=d4af37" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Languages (Profile Summary Cards - جایگزین مطمئن) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ByteBite1391&theme=github_dark" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByteBite1391&theme=github_dark" alt="Repos Per Language" />
+
+<br/><br/>
+
+<!-- Stats Card (اضافه شد چون Profile Summary رو داریم) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ByteBite1391&theme=github_dark" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ByteBite1391&theme=github_dark&utcOffset=3.5" alt="Productive Time" />
+
+<br/><br/>
+
+<!-- Activity Graph (با پارامترهای سبک‌تر - اگه کار نکرد، در بخش پایین جایگزین هست) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteBite1391&bg_color=08080a&color=d4af37&line=d4af37&point=e9c55a&area=true&hide_border=true&days=30&custom_title=My%20Contribution%20Graph" alt="Activity Graph" width="100%" />
 
 </div>
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    SNAKE ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ByteBite1391&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+### 🐍 Watch my contributions get eaten by a snake!
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteBite1391&bg_color=08080a&color=d4af37&line=d4af37&point=e9c55a&area=true&hide_border=false&border_color=d4af37" alt="Activity Graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteBite1391/ByteBite1391/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteBite1391/ByteBite1391/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ByteBite1391/ByteBite1391/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -207,17 +234,17 @@ I'm passionate about building **scalable and reliable systems** using **Django**
 <div align="center">
 
 <a href="https://github.com/ByteBite1391/SchonShop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=SchonShop&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37" alt="SchonShop" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=SchonShop&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37&cache_seconds=86400" alt="SchonShop" />
 </a>
 <a href="https://github.com/ByteBite1391/Library-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=Library-Management-System&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37" alt="Library Management System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=Library-Management-System&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37&cache_seconds=86400" alt="Library Management System" />
 </a>
 
 <a href="https://github.com/ByteBite1391/Hospital-Appointment-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=Hospital-Appointment-System&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37" alt="Hospital Appointment System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=Hospital-Appointment-System&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37&cache_seconds=86400" alt="Hospital Appointment System" />
 </a>
 <a href="https://github.com/ByteBite1391/Portfolio2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=Portfolio2&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37" alt="Portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByteBite1391&repo=Portfolio2&theme=dark&bg_color=08080a&title_color=d4af37&icon_color=d4af37&text_color=e5e7eb&border_color=d4af37&cache_seconds=86400" alt="Portfolio" />
 </a>
 
 </div>
@@ -285,25 +312,7 @@ I'm passionate about building **scalable and reliable systems** using **Django**
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    SNAKE ANIMATION                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🐍 Watch my contributions get eaten by a snake!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByteBite1391/ByteBite1391/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByteBite1391/ByteBite1391/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ByteBite1391/ByteBite1391/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FOOTER (FIXED COLOR)                      -->
+<!--                    FOOTER (GOLD TEXT ON DARK)                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
