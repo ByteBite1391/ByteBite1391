@@ -297,13 +297,10 @@ I'm passionate about building **scalable and reliable systems** using **Django**
 <a href="https://bytebite1391.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-d4af37?style=for-the-badge&logo=googlechrome&logoColor=08080a" alt="Portfolio" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:amiralipourbabaeii1391@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/your-profile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://t.me/your_username" target="_blank">
+<a href="https://t.me/araipi" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
